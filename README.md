@@ -1,2 +1,2 @@
 # GitTest
-My My name Git master
+My name Git master
